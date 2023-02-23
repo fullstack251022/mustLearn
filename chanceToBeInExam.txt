@@ -1,23 +1,18 @@
+html, css, js:
 css:
-What is?
-widh,height,margin,padding
+widh,height,margin,padding?
 
-html tags, 
+html:, 
 <a>,<p>,<img>,<div>,<table><tr><td>,<script> etc..
 
-What is Cookies? What is localstorage? What is the difference between them?
+javascript:  Const, Let, Var, setInterval, setTimeout, callbacks etc
 
+web:
+What is Cookies? What is localstorage? What is the difference between them?
 What is EventListeners, why do we need them?
 
-javascript basic: Const vs Let vs Var 
-
-javascript timer functions: setInterval, setTimeout
-
-callbacks
-
-package.json
-
-npm
+node:
+npm, package.json
 
 Express:
   middlewares,
