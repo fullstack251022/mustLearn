@@ -14,9 +14,8 @@ What is EventListeners, why do we need them?
 node:
 npm, package.json
 
-Express:
-  middlewares,
-  routing,
+Express
+middlewares, routing,
   
 Http:
 Return statuses (200 ,300 ,400 ,500)
